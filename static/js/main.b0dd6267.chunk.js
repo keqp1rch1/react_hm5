@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-hm5"]=this["webpackJsonpreact-hm5"]||[]).push([[0],{4:function(e,t,n){"use strict";n.r(t);n(1);var m=n(3),c=n.n(m),r=n(0);c.a.render(Object(r.jsx)("nav",{element1:"elementt1",element2:"elementt2",element3:"elementt3"}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.b0dd6267.chunk.js.map
